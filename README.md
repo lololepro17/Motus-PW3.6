@@ -16,11 +16,7 @@ Motus avec mots english/fancais.
 Tout c'est fichier sont écessaire au demarage du jeu. 
 
 * dico_fr.txt -> Ensemble des mots en Francais.
-* dico_uk.txt -> Ensemble des mots en anglais.
 
-C'est fichier ne sont pas nécessaire au fonctionnement du programme mais permettent de l'ameliorer. Toute les fonctionalité peuvent ne pas marcher.
-
-* rules.txt -> Régles du jeu motus tirée de la page Wikipédia avec information pour jouez.
 * README.md -> Ce fichier.
 
 ## Tkinter interface
